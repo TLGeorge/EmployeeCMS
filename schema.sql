@@ -1,7 +1,7 @@
 DROP DATABASE IF EXISTS employee_cms_db;
 CREATE database employee_cms_db;
 
-USE employee_management_db;
+USE employee_cms_db;
 
 CREATE TABLE department (
   id INT NOT NULL AUTO_INCREMENT,

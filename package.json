@@ -1,0 +1,20 @@
+{
+  "name": "EmployeeCMS",
+  "version": "1.0.0",
+  "description": "Employee **C**ontent **M**anagement **S**ystems: An application that allows a user to ADD departments, roles, employees, VIEW departments, roles, employees, and UPDATE employee roles.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TLGeorge/EmployeeCMS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TLGeorge/EmployeeCMS/issues"
+  },
+  "homepage": "https://github.com/TLGeorge/EmployeeCMS#readme"
+}
