@@ -27,7 +27,7 @@ function promptUser() {
                 "View Departments",
                 "View Roles",
                 "Add Employee",
-                "Add s",
+                "Add Roles",
                 "Add Department",
                 "Remove Employee",
                 "Remove Role",
