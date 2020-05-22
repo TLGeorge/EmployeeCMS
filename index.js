@@ -2,7 +2,7 @@ var mysql = require("mysql");
 var inquirer = require("inquirer");
 var dotenv = require("dotenv").config();
 
-const conn = mysql.createConnection({
+const connection = mysql.createConnection({
     host: process.env.DB_HOST,
     port: process.env.DB_PORT,
     user: process.env.DB_USER,
@@ -27,7 +27,7 @@ function promptUser() {
                 "View Departments",
                 "View Roles",
                 "Add Employee",
-                "Add Role",
+                "Add s",
                 "Add Department",
                 "Remove Employee",
                 "Remove Role",
